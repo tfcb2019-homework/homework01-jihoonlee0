@@ -12,7 +12,7 @@ Make a GitHub account and populate your bio by including your research interests
 
 _Include the link to your GitHub profile here._
 
-My GitHub profile is at [https://github.com/jihoonlee0].
+My GitHub profile is at [https://github.com/jihoonlee0](https://github.com/jihoonlee0).
 
 ## Problem 2
 
@@ -41,7 +41,7 @@ Publish `tfcb-homework01` to GitHub using GitHub Desktop. Make sure to set this 
 
 _Include the link to your `tfcb-homework01` GitHub repository here._
 
-My 'tfcb-homework01' repository is at [https://github.com/jihoonlee0/tfcb-homework01].
+My 'tfcb-homework01' repository is at [https://github.com/jihoonlee0/tfcb-homework01](https://github.com/jihoonlee0/tfcb-homework01).
 
 ## Problem 4
 
