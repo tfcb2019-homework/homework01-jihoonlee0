@@ -55,6 +55,8 @@ Commit changes and publish to your public GitHub repository. Locate the URL of t
 
 _Include the commit URL for your reorganized project here._
 
+My reorganized project commit can be found at [https://github.com/jihoonlee0/tfcb-homework01/commit/23eec99fa9e9a34f370e6d3d95441794015079de](https://github.com/jihoonlee0/tfcb-homework01/commit/23eec99fa9e9a34f370e6d3d95441794015079de).
+
 ## Problem 4
 
 **10 points**
@@ -66,6 +68,8 @@ Create a file called `README.md` and populate with Markdown. Demonstrate headers
 Commit this file and publish to your public GitHub repository.
 
 _Include the link to your `README.md` here._
+
+My README.md for the public project, including different Markdown features, can be found at [https://github.com/jihoonlee0/tfcb-homework01/blob/master/README.md](https://github.com/jihoonlee0/tfcb-homework01/blob/master/README.md).
 
 ## Problem 5
 
@@ -80,3 +84,5 @@ Export this as a tab-delimited `.tsv` text file with Unix line endings.
 Commit the modified `.xlsx` file and the `.tsv` file and publish to your public GitHub repository.
 
 _Include the link to your `.tsv` file on GitHub here._
+
+My tidied data file 'survey-data_tidy.tsv' (Unix end-of-line format) can be found at [https://github.com/jihoonlee0/tfcb-homework01/blob/master/data/survey-data_tidy.tsv](https://github.com/jihoonlee0/tfcb-homework01/blob/master/data/survey-data_tidy.tsv).
